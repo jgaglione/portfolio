@@ -1,8 +1,8 @@
 # Hi, I'm Jethro and this is my portfolio. 
 ![My Image](fermilabDAS.png)
-# Descriptions and links to relevant projects
+# Descriptions and Links to Relevant Projects
 
-## Migration of CERN CMS's Beyond Standard Model - 3rd Generation experimental group data analysis framework
+## Migration of data analysis framework for CERN CMS's Beyond Standard Model - 3rd Generation experimental group
 **Framework description:** The BSM-3G Analyzer is the main data analysis framework used by the Beyond Standard Model - 3rd Generation group at CERN's Compact Muon Solenoid (CMS) experiment. This group focuses on newly theorized particle and dark matter searches and is responsible for over 20 publications in top peer-reviewed physics journals. This analysis framework has multi-tiered functionality -- mining from a database where 100,000 particle collisions are registered per second, cleaning and filtering good events according to collaboration standards, and analyzing/plotting said data. 
 The framework is primarily written in C++, with heavy use of the [ROOT](https://root.cern/) library.
 **My role:** Every so often, the CMS collaboration updates their data structures to refelct latest hardware-level calibrations, implement more efficient storage, or generate collections for special use cases. My job was to migrate our analysis framework to handle the "Ultralegacy" tree-structure update, which was a collaboration-wide requirement for any future, publishable analysis. My work on this project in a nutshell:
@@ -21,7 +21,23 @@ The framework is primarily written in C++, with heavy use of the [ROOT](https://
 - Evaluating/Adjusting grid requirements for job submission
 - Enhancing error handling and resubmission upon run failures
 
-** Links: [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py)
+** Links:** [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py)
+
+## Machine learning course-related projects
+CERN offers graduate training and courses in subjects widely used in experimental physics technology, such as machine learning and computational physics. I completed a ML course offered via CERN, taught by Prof. Sergei Gleyzer of the University of Alabama (UA). Though the projects associated with the course were partly instructor-developed (not subject to being publicly posted), here are the main focus points of the course:
+- Fundamentals of machine learning and classification theory
+- Theory and application of standard supervised and unsupervised ML algorithms
+- Mathematical and statistical methods and performance metrics.
+- Use of common ML packages, particularly Scikit-lear, TensorFlow, and Keras.
+
+## Computational physics course-related projects
+I also completed a computation physics course via CERN, taught by prof. Salvatore Rapoccio at the State University of New York at Buffalo. Similary, the main focus of this course was:
+
+- Numerical analysis and computer programming in C++ and python (and their combination)
+- Technicalities of scientific programming (including git, containers like docker, pip, etc)
+- Review of umerical algorithms for root finding, interpolation, matrix inversion, numerical differentiation, and quadrature, data analysis, Fourier transformations, linear and nonlinear differential equations, boundary-value and eigenvalue problems.
+
+
 
 
 
