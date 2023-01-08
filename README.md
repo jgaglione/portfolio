@@ -1,4 +1,4 @@
-<p align="center"># Jethro Gaglione </p>
+# Jethro Gaglione
 ![My Image](fermilabDAS.png)
 # Descriptions and Links to Relevant Projects
 
