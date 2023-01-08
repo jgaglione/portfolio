@@ -1,6 +1,6 @@
-<p align="center"> # Hi, I'm Jethro and this is my portfolio. 
+# Hi, I'm Jethro and this is my portfolio. 
 ![My Image](fermilabDAS.png)
-# Descriptions and links to relevant projects </p>
+# Descriptions and links to relevant projects
 
 ## Migration of CERN CMS's Beyond Standard Model - 3rd Generation experimental group data analysis framework
 **Framework description:** The BSM-3G Analyzer is the main data analysis framework used by the Beyond Standard Model - 3rd Generation group at CERN's Compact Muon Solenoid (CMS) experiment. This group focuses on newly theorized particle and dark matter searches and is responsible for over 20 publications in top peer-reviewed physics journals. This analysis framework has multi-tiered functionality -- mining from a database where 100,000 particle collisions are registered per second, cleaning and filtering good events according to collaboration standards, and analyzing/plotting said data. 
@@ -21,7 +21,7 @@ The framework is primarily written in C++, with heavy use of the [ROOT](https://
 - Evaluating/Adjusting grid requirements for job submission
 - Enhancing error handling and resubmission upon run failures
 
-** Links: [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py]
+** Links: [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py)
 
 
 
