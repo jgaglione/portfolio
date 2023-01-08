@@ -21,7 +21,7 @@ The framework is primarily written in C++, with heavy use of the [ROOT](https://
 - Evaluating/Adjusting grid requirements for job submission
 - Enhancing error handling and resubmission upon run failures
 
-** Links:** [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py)
+**Links:** [submission framework](https://github.com/BSM3G/NanoAOD_Submission), [ROOT file combining program](https://github.com/BSM3G/NanoAOD_Analyzer_UL/blob/master/add_root_files_2016.py)
 
 ## 3. Machine learning course-related projects
 CERN offers graduate training and courses in subjects widely used in experimental physics technology, such as machine learning and computational physics. I completed a ML course offered via CERN, taught by Prof. Sergei Gleyzer of the University of Alabama (UA). Though the projects associated with the course were partly instructor-developed (not subject to being publicly posted), here are the main focus points of the course:
